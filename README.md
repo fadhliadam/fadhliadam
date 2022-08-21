@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadhliadam
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning flutter and android development
+- 🌱 I’m currently learning flutter and android kotlin development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
